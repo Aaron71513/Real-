@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: black;
+  color: white;
+  text-align: center;
+}
+#screen {
+  padding: 20px;
+}
+.hidden {
+  display: none;
+}
+#ripWarning {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
